@@ -14,5 +14,17 @@ IMPORTANT: PLEASE NOTE THAT TO USE THE TRUCKEET SERVICES, YOU MUST AGREE TO THE 
 
 * "Truckeet Services" means Truckeet’s lead generation and related services that enable drivers of delivery vehicles to seek, receive and fulfill requests for delivery services by Users seeking said services. Truckeet Services include access to the Truckeet Platform.
 
+* "Cargo" means the items to be delivered by you in your Vehicle in connection with the Delivery Services.
+"Delivery Services" means your provision of delivery services to Users via the Truckeet Platform in the Territory using your Vehicle.
+
+* "Territory" means the city or metro area in Canada in which you use the Truckeet Platform for the Delivery Services.
+
+* "User" means an end user authorized by Truckeet to use the Truckeet platform for the purpose of obtaining Delivery Services.
+
+* "User Information" means information about a User made available to you in connection with such User’s request for and use of Delivery Services, which may include the User’s name, pick-up location, contact information and photo.
+
+* "Vehicle" means your vehicle that: (a) meets the then current Company requirements for a vehicle leveraging the Truckeet Services; and (b) Company authorizes for your use for the purpose of providing Delivery Services.
+
+
 ## 3. Contact
 Email us at support@example.com with any concerns.
