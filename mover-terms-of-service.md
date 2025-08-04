@@ -9,7 +9,7 @@ Truckeet is an on-demand technology services provider that pairs persons or orga
 
 IMPORTANT: PLEASE NOTE THAT TO USE THE TRUCKEET SERVICES, YOU MUST AGREE TO THE TERMS AND CONDITIONS SET FORTH BELOW. BY VIRTUE OF YOUR ACCEPTANCE OF THIS AGREEMENT, YOU WILL BE ACKNOWLEDGING THAT YOU HAVE READ AND UNDERSTOOD ALL OF THE TERMS OF THIS AGREEMENT (INCLUDING THE ARBITRATION PROVISION) AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT BUSINESS DECISION.
 
-## 1. Definitions
+### 1. Definitions
 * "Truckeet Platform" means Truckeet’s software, websites, and related support services systems, that enable delivery providers access to the Truckeet Services for the purpose of seeking, receiving, and fulfilling requests for delivery services by Users, as may be updated or modified from time to time.
 
 * "Truckeet Services" means Truckeet’s lead generation and related services that enable drivers of delivery vehicles to seek, receive and fulfill requests for delivery services by Users seeking said services. Truckeet Services include access to the Truckeet Platform.
@@ -24,6 +24,9 @@ IMPORTANT: PLEASE NOTE THAT TO USE THE TRUCKEET SERVICES, YOU MUST AGREE TO THE 
 * "User Information" means information about a User made available to you in connection with such User’s request for and use of Delivery Services, which may include the User’s name, pick-up location, contact information and photo.
 
 * "Vehicle" means your vehicle that: (a) meets the then current Company requirements for a vehicle leveraging the Truckeet Services; and (b) Company authorizes for your use for the purpose of providing Delivery Services.
+
+### 2. Use of Truckeet Services
+1.	Provision of Delivery Services. If you accept a User’s request for Delivery Services, the Truckeet Platform will provide you with certain User Information including the User’s first name and pickup location. It is recommended that you wait at least ten (10) minutes for a User to show up at the scheduled location. You will obtain the destination from the User or from the Truckeet Platform. You acknowledge and agree that once you have accepted a User’s request for Delivery Services, Truckeet’s Platform may provide certain information about you to the User, including your full name, contact information, photo and location, and your Vehicle’s make and license plate number. You shall not contact any Users or use any User’s personal data for any reason other than for the purposes of fulfilling Delivery Services. As between Company and you, you acknowledge and agree that: (a) you shall be solely responsible for determining the most effective, efficient and safe manner to perform each instance of Delivery Services; and (b) except for the Truckeet Services, you shall provide all necessary equipment, tools and other materials, at your own expense, necessary to perform Delivery Services.
 
 
 ## 3. Contact
