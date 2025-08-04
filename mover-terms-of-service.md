@@ -12,5 +12,7 @@ IMPORTANT: PLEASE NOTE THAT TO USE THE TRUCKEET SERVICES, YOU MUST AGREE TO THE 
 ## 1. Definitions
 ⋅⋅⋅"Truckeet Platform" means Truckeet’s software, websites, and related support services systems, that enable delivery providers access to the Truckeet Services for the purpose of seeking, receiving, and fulfilling requests for delivery services by Users, as may be updated or modified from time to time.
 
+⋅⋅⋅"Truckeet Services" means Truckeet’s lead generation and related services that enable drivers of delivery vehicles to seek, receive and fulfill requests for delivery services by Users seeking said services. Truckeet Services include access to the Truckeet Platform.
+
 ## 3. Contact
 Email us at support@example.com with any concerns.
