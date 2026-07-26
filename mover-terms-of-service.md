@@ -1,7 +1,3 @@
----
-title: Terms & Agreement
-layout: default
----
 
 ## This Driver Agreement constitutes a legal agreement between you, an individual (“you,” and “your,”) and Truckeet Online Moving, (“Company” or “Truckeet”, “we”).
 
