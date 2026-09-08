@@ -1,5 +1,6 @@
 
 * **Version:** 1.0
+<small><em>Version: 1.0</em></small><br>
 * **Effective Date:** September 8, 2026  
 
 ## This Mover Agreement constitutes a legal agreement between you, an individual (“you,” ”mover,” and “your,”) and Truckeet Online Moving Inc., (“Company” or “Truckeet”, “we”).
